@@ -1,0 +1,17 @@
+.DS_Store
+build/
+*.ipa
+*.app/
+*.dylib
+*.mobileprovision
+*.p12
+*.pfx
+*.pem
+*.key
+*.cer
+*.log
+.env
+.env.*
+DerivedData/
+backups/
+diagnostics/
